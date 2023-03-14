@@ -31,8 +31,8 @@ const createPokemonCard = (pokemon) => {
   const pokemonCard = `
   <div class="card text-center">
   <img
-    src="${pokemonImage}"
-    class="card-img-top"
+    data-src="${pokemonImage}"
+    class="card-img-top lazyload"
     id="pokemon-image"
     alt="${name}"
   />
