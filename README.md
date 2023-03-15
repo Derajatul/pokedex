@@ -33,4 +33,4 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ber
 
 Jika Anda memiliki pertanyaan atau masalah dengan aplikasi ini, jangan ragu untuk menghubungi saya melalui email di derajatul@gmail.com.
 
-Terima kasih telah menggunakan aplikasi Pokedex JavaScript!
+Terima kasih telah menggunakan aplikasi Pokedex JavaScript!!!
